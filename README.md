@@ -7,9 +7,7 @@ A Product CRUD Application using Vue 3, Vue Router, Vue-Pagination, Searching, S
 
 The demo of the application of Vue3 CRUD Project :
 
-https://github.com/Daniel-Ruan/P1908332-Daniel-Ruan-Project-Work-Vue3-font-end/blob/main/src/assets/demo.jpeg
-
-
+![demo](https://raw.githubusercontent.com/Daniel-Ruan/P1908332-Daniel-Ruan-Project-Work-Vue3-font-end/main/src/assets/demo.jpeg)
 
 ## Project setup
 
