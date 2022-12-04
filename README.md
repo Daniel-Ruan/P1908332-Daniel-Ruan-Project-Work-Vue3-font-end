@@ -11,6 +11,10 @@ The demo of the application of Vue3 CRUD Project :
 
 ## Project setup
 
+## API Project Setup (Laravel API)
+
+https://github.com/Daniel-Ruan/P1908332-Daniel-Ruan-Project-Work-Vue3-back-end
+
 ```bash
 git clone https://github.com/Daniel-Ruan/P1908332-Daniel-Ruan-Project-Work-Vue3-font-end.git
 cd P1908332-Daniel-Ruan-Project-Work-Vue3-font-end
@@ -26,22 +30,19 @@ Then,
 npm install
 ```
 
-## API Project Setup (Laravel API)
-
-https://github.com/ManiruzzamanAkash/Laravel-Basic-CRUD-API
-> Note: It could be your api if you want. Just follow the process. It's super simple by using Laravel with PHP
-
-### Compiles and hot-reloads for development
-```bash
-npm run serve
-```
-
 ### Compiles and minifies for production
+
 ```bash
 npm run build
 ```
 
-### Lints and fixes files
+### Compiles and hot-reloads for development
+
+```bash
+npm run serve
+```
+
+### Lint and fixes files
 ```bash
 npm run lint
 ```
