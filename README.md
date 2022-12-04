@@ -1,54 +1,26 @@
-# Vue-CRUD Application
-A Complete Single Page Application (SPA) or Product CRUD Application using Vue 3, Vue Router, Vue-Pagination, Searching, Sweet Alert, Vuex and all....
+# P1908332 Daniel Ruan Project with Vue3
+A Product CRUD Application using Vue 3, Vue Router, Vue-Pagination, Searching, Sweet Alert, Vuex.
 
 ---
 
 ## Vue-3 CRUD Project Demo
 
-Let's check the whole demo of the application of Vue-3 Complete CRUD with Vuex:
+The demo of the application of Vue3 CRUD Project :
 
-![Demo of Main Page](https://i.ibb.co/JKM6FPN/Vue-3-Advance-CRUD.png)
-
-
-#### View Demo From Youtube -
-<a href="https://www.youtube.com/watch?v=ffs_1bvOdHk">
-    <img src="https://img.youtube.com/vi/ffs_1bvOdHk/0.jpg" style="width:100%;">
-</a>
-
-## Vue-3 CRUD Project Todo List
-
-### Setup Part
-
-- [x] Vue JS Page Setup
-- [x] Vue Router Setup
-- [x] Vue-Bootstrap Setup
-- [x] Vuex Setup for Central Storage Management
-
-### CRUD Part
-- [x] Page Design
-    - [x] Product List Page Design
-    - [x] Product Create/Edit Page Design
-    - [x] Product View Page Design
-    - [x] Product Delete Modal
-- [x] Product List
-    - [x] Product List API Integration
-    - [x] Product Pagination
-    - [x] Product Searching
-- [x] Product Create
-    - [x] Form Validation throw `Vue-validate`
-- [x] Product Edit
-    - [x] Product Details Loading and Edit
-- [x] Product Delete
-    - [x] Sweet Alert or other alert system
+![image-20221204185618329](C:\Users\ruanh\AppData\Roaming\Typora\typora-user-images\image-20221204185618329.png)
 
 ## Project setup
 
 ```bash
-git clone https://github.com/ManiruzzamanAkash/Vue-3-Advance-CRUD.git
-cd Vue-3-Advance-CRUD
+git clone https://github.com/Daniel-Ruan/P1908332-Daniel-Ruan-Project-Work-Vue3-font-end.git
+cd P1908332-Daniel-Ruan-Project-Work-Vue3-font-end
 ```
 
-Copy `.env.example` to `.env` and run
+or download code ZIP, and unzip. 
+
+use Vs code open `.env.example` and copy `.env.example` to `.env` .
+
+Then,
 
 ```bash
 npm install
